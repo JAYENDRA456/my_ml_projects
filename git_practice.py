@@ -53,6 +53,7 @@ print(add_lst('apple'))
     return d
 print(add_dic(qty=5,item="pen",))
 print(add_dic(6,"pencil"))'''
+print("i am practicing git commands")
 
 
         
